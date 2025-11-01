@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade 1 </title>
+</head>
+<body>
+    <h1>Codigo executado com Sucesso!  </h1>
+    <script>
+        var  idade = parseInt(prompt('Informe sua idade: '));
+        if(idade >=18){           
+                 console.log('Voce é maior de idade ');
+                 alert('a Idade informada foi '+ idade );
+
+        }else{
+                    console.log('menor de idade' );
+                    alert('A idade informada Foi ' + idade );
+                 }
+                
+    </script>
+</body>
+</html>
